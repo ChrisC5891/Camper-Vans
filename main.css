@@ -9,11 +9,20 @@ body {
     display: flex;
     justify-content: space-between ;
     
+    
 }
+.navigation-bar {
+    background-color: purple;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
 
 p {
     color:papayawhip;
 }
+
 .nav-link,
 .navbar-brand {
     color: #fff;
@@ -36,6 +45,8 @@ p {
     background-position: center;
     position: relative;
     
+    
+    
 }
 
 .overlay {
@@ -44,6 +55,7 @@ p {
     min-width: 100%;
     left: 0;
     top: 0;
+    margin-top: 2.95%; 
     background: rgba(0, 0, 0, 0.6);
 }
 
