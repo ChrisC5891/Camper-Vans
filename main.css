@@ -31,7 +31,7 @@ p {
 }
 
 .header {
-    background-image: url('.images/van1.jpg');
+    background-image: url('images/van1.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
