@@ -42,7 +42,7 @@ p {
 
 .container-fluid {
     /*background: url('./images/van2.jpg')no-repeat 0 0;;*/
-    background: linear-gradient(to top, #b3b3b4ba, #3e3e3fcc), url('./images/van2.jpg') no-repeat 0 0;;
+    background: linear-gradient(to top, #b3b3b4ba, #3e3e3fcc), url('./images/van1.jpg') no-repeat 0 0;;
     background-size: cover;
     background-position: center;
     position: relative;
